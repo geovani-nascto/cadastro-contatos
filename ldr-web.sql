@@ -17,10 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `escalaweb16`
+-- Database: `ldr-web`
 --
-CREATE DATABASE IF NOT EXISTS `escalaweb16` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `escalaweb16`;
+CREATE DATABASE IF NOT EXISTS `ldr-web` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `ldr-web`;
 
 -- --------------------------------------------------------
 

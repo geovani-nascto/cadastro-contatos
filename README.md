@@ -3,14 +3,14 @@
 </h1>
 
 ## Tela inicial
-<h1>
+<h1 align="center">
     <img src="https://ik.imagekit.io/geovani/cadastro.png?updatedAt=1684462189978">
 </h1>
 <p>Tela inicial onde você pode cadastrar contatos, que terão suas informações enviadas para um banco de dados. Menu para acessar o formulário e a listagem com os contatos atualmente cadastrados. Possui validador em cada campo informando se alguma informação estiver incorreta.</p>
 
 
 ## Cadastro com sucesso
-<h1>
+<h1 align="center">
     <img src="https://ik.imagekit.io/geovani/cadastro-sucesso.png?updatedAt=1684462189991">
 </h1>
 
@@ -18,7 +18,7 @@
 
 ## Tela de listagem
 
-<h1>
+<h1 align="center">
     <img src="https://ik.imagekit.io/geovani/tela-listagem.png?updatedAt=1684462190098">
 </h1>
 
